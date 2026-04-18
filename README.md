@@ -1,2 +1,2 @@
-# s80c
-Simple asm 8080 Compiler (Assembler)
+# s80a
+Simple asm 8080 Assembler
